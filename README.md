@@ -8,7 +8,7 @@ Source Dataset : Kaggle <br>
 # 📂 STAGE 0: Business Understanding
 ## ERD :
 <p align="center">
-    <kbd> <img width="400" alt="erd" src="erd telco customer churn.png"> </kbd> <br>
+    <kbd> <img width="200" alt="erd" src="erd telco customer churn.png"> </kbd> <br>
     Gambar 1 — ERD Dashboard
 </p>
 
