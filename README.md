@@ -1,20 +1,16 @@
 # 📔**Telco Customer**
-Tool : Google Collab <br>
+Tool : Google Collab, Ms. Excel, Looker, SmartDraw <br>
 Programming Language : Python <br>
 Libraries : <br>
-Visualization : <br>
+Visualization : Looker & Notebook<br>
 Source Dataset : Kaggle <br>
 
 # 📂 STAGE 0: Business Understanding
-## Background Project :
-ewrteyh
-
-## Objective :
-1. werstyrht
-2. retwhty
+## Tugas :
+Analisis Prediktif Churn Pelanggan
 
 ## Goals :
-maneuhejrk
+Mengidentifikasi faktor-faktor risiko terbesar yang mendorong pelanggan untuk berhenti berlangganan, memprediksi pelanggan mana yang berisiko tinggi churn, memungkinkan intervensi retensi yang tepat waktu dan terarah.
 
 # 📂 Stage 1: Exploratory Data Analysis
 ## Data Overview :
