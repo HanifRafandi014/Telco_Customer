@@ -6,6 +6,12 @@ Visualization : Looker & Notebook<br>
 Source Dataset : Kaggle <br>
 
 # 📂 STAGE 0: Business Understanding
+## ERD :
+<p align="center">
+    <kbd> <img width="1000" alt="erd" src="erd telco customer churn.png"> </kbd> <br>
+    Gambar 1 — ERD Dashboard
+</p>
+
 ## Tugas :
 Analisis Prediktif Churn Pelanggan
 
