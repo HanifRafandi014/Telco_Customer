@@ -6,7 +6,7 @@ Visualization : Looker & Notebook<br>
 Source Dataset : Kaggle <br>
 
 # 📂 STAGE 0: Business Understanding
-## ERD :
+## Entity Relationship Diagram :
 <p align="center">
     <kbd> <img width="200" alt="erd" src="erd telco customer churn.png"> </kbd> <br>
     Gambar 1 — ERD Dashboard
